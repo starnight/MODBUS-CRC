@@ -7,9 +7,9 @@ C/C++
 -----
 
 * File: modbuscrc.c
-'''
+```
 cc modbuscrc.c -o demo.bin
-'''
+```
 * Reference: [http://www.nongnu.org/avr-libc/user-manual/group\_\_util\_\_crc.html](http://www.nongnu.org/avr-libc/user-manual/group__util__crc.html)
 
 
